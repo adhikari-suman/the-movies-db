@@ -1,0 +1,11 @@
+{
+  "name": "movies-db-graphql",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adhikari-suman/the-movies-db.git"
+  },
+  "author": "Suman Adhikari",
+  "license": "MIT"
+}
